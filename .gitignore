@@ -5,7 +5,3 @@ package-lock.json
 composer.phar
 composer.lock
 .DS_Store
-.gitignore
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
